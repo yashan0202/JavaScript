@@ -59,4 +59,4 @@
         <li><strong>Well-Documented:</strong> Clear and concise README and folder structure for seamless navigation.</li>
     </ul>
 
-  <h2>Developed by : Yash Anand</h2>
+  <h2>Developed by : Yash Anand </h2>
